@@ -7,7 +7,7 @@ Web & Mobile Developper
 I'm learning to code until 2 years after a switching careers. Starting with HTML, CSS and Javascript, i'm now comfortable in the use of Typescript either on frontend or backend development. My goal is continue learning as i can and dispense my knowlegde to others.
 
 * 🌍  I'm based in Soissons, France
-* 🖥️  See my portfolio at [justinem-dev.fr](http://justinem-dev.fr)
+* 🖥️  See my portfolio at [justinem-dev.fr](https://justinem-dev.fr)
 * ✉️  You can contact me at [justine.merlin94@gmail.com](mailto:justine.merlin94@gmail.com)
 * 🧠  I'm learning Next.js, GraphQL, so much cool other things
 * 🤝  I'm open to collaborating on interestings projects but essentially interestings peoples
